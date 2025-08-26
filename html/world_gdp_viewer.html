@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SVG Viewer</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+    }
+    #svg-container {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <object id="mysvg" data="https://raw.githubusercontent.com/chris-soelistyo/geomaps/54a3c69855862fbb1ae3ffdcab8a7011b2c6bb4c/world/world_gdp.svg" type="image/svg+xml" style="width:100%; height:100%;"></object>
+
+  <!-- Panzoom library -->
+  <script src="https://unpkg.com/@panzoom/panzoom/dist/panzoom.min.js"></script>
+  <script>
+    const obj = document.getElementById("mysvg");
+
+    obj.addEventListener("load", () => {
+      const svgDoc = obj.contentDocument.querySelector("svg");
+      const panzoom = Panzoom(svgDoc, {
+        maxScale: 20,
+        contain: 'outside'
+      });
+      svgDoc.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+    });
+  </script>
+</body>
+</html>
