@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1440pt" height="720pt" viewBox="0 0 1440 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1247.989844pt" height="686.732901pt" viewBox="0 0 1247.989844 686.732901" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-09-01T00:44:23.264436</dc:date>
+    <dc:date>2025-09-01T00:48:16.735364</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,133 +21,125 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 720 
-L 1440 720 
-L 1440 0 
+   <path d="M 0 686.732901 
+L 1247.989844 686.732901 
+L 1247.989844 0 
 L 0 0 
 z
 " style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 180 640.8 
-L 1296 640.8 
-L 1296 86.4 
-L 180 86.4 
+    <path d="M 124.789844 561.6 
+L 1240.789844 561.6 
+L 1240.789844 7.2 
+L 124.789844 7.2 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 180 640.8 
-L 1296 640.8 
-L 1296 86.4 
-L 180 86.4 
+    <path d="M 175.517116 561.6 
+L 250.668632 561.6 
+L 250.668632 553.915656 
+L 175.517116 553.915656 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_4">
-    <path d="M 230.727273 640.8 
-L 305.878788 640.8 
-L 305.878788 633.115656 
-L 230.727273 633.115656 
+    <path d="M 269.45651 561.6 
+L 344.608026 561.6 
+L 344.608026 552.23744 
+L 269.45651 552.23744 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_5">
-    <path d="M 324.666667 640.8 
-L 399.818182 640.8 
-L 399.818182 631.43744 
-L 324.666667 631.43744 
+    <path d="M 363.395904 561.6 
+L 438.54742 561.6 
+L 438.54742 548.72034 
+L 363.395904 548.72034 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_6">
-    <path d="M 418.606061 640.8 
-L 493.757576 640.8 
-L 493.757576 627.92034 
-L 418.606061 627.92034 
+    <path d="M 457.335298 561.6 
+L 532.486813 561.6 
+L 532.486813 546.459654 
+L 457.335298 546.459654 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_7">
-    <path d="M 512.545455 640.8 
-L 587.69697 640.8 
-L 587.69697 625.659654 
-L 512.545455 625.659654 
+    <path d="M 551.274692 561.6 
+L 626.426207 561.6 
+L 626.426207 537.890947 
+L 551.274692 537.890947 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_8">
-    <path d="M 606.484848 640.8 
-L 681.636364 640.8 
-L 681.636364 617.090947 
-L 606.484848 617.090947 
+    <path d="M 645.214086 561.6 
+L 720.365601 561.6 
+L 720.365601 534.917277 
+L 645.214086 534.917277 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_9">
-    <path d="M 700.424242 640.8 
-L 775.575758 640.8 
-L 775.575758 614.117277 
-L 700.424242 614.117277 
+    <path d="M 739.15348 561.6 
+L 814.304995 561.6 
+L 814.304995 531.214541 
+L 739.15348 531.214541 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_10">
-    <path d="M 794.363636 640.8 
-L 869.515152 640.8 
-L 869.515152 610.414541 
-L 794.363636 610.414541 
+    <path d="M 833.092874 561.6 
+L 908.244389 561.6 
+L 908.244389 516.847052 
+L 833.092874 516.847052 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_11">
-    <path d="M 888.30303 640.8 
-L 963.454545 640.8 
-L 963.454545 596.047052 
-L 888.30303 596.047052 
+    <path d="M 927.032268 561.6 
+L 1002.183783 561.6 
+L 1002.183783 490.694215 
+L 927.032268 490.694215 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_12">
-    <path d="M 982.242424 640.8 
-L 1057.393939 640.8 
-L 1057.393939 569.894215 
-L 982.242424 569.894215 
+    <path d="M 1020.971662 561.6 
+L 1096.123177 561.6 
+L 1096.123177 356.200223 
+L 1020.971662 356.200223 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="patch_13">
-    <path d="M 1076.181818 640.8 
-L 1151.333333 640.8 
-L 1151.333333 435.400223 
-L 1076.181818 435.400223 
+    <path d="M 1114.911056 561.6 
+L 1190.062571 561.6 
+L 1190.062571 33.6 
+L 1114.911056 33.6 
 z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
-   </g>
-   <g id="patch_14">
-    <path d="M 1170.121212 640.8 
-L 1245.272727 640.8 
-L 1245.272727 112.8 
-L 1170.121212 112.8 
-z
-" clip-path="url(#p5ed10608e3)" style="fill: #800000"/>
+" clip-path="url(#p82988812ed)" style="fill: #800000"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m95fe790f94" d="M 0 0 
+       <path id="m9d2c6c1d30" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m95fe790f94" x="268.30303" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="213.092874" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- Myanmar -->
-      <g transform="translate(235.756783 734.528304) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(180.546627 655.328304) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-4d" d="M 2848 845 
 L 4378 4531 
@@ -333,12 +325,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m95fe790f94" x="362.242424" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="307.032268" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- Timor-Leste -->
-      <g transform="translate(320.139187 753.642284) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(264.929031 674.442284) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-54" d="M 2067 0 
 L 1606 0 
@@ -541,12 +533,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m95fe790f94" x="456.181818" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="400.971662" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- Laos -->
-      <g transform="translate(442.304848 697.189751) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(387.094691 617.989751) rotate(-45) scale(0.25 -0.25)">
        <use xlink:href="#Avenir-Book-4c"/>
        <use xlink:href="#Avenir-Book-61" transform="translate(49.999985 0)"/>
        <use xlink:href="#Avenir-Book-6f" transform="translate(101.899979 0)"/>
@@ -557,12 +549,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m95fe790f94" x="550.121212" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="494.911056" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- Cambodia -->
-      <g transform="translate(513.165215 743.347804) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(457.955059 664.147804) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-43" d="M 4346 717 
 Q 4230 544 4060 390 
@@ -702,12 +694,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m95fe790f94" x="644.060606" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="588.85045" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- Philippines -->
-      <g transform="translate(605.331318 746.894386) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(550.121162 667.694386) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-50" d="M 1075 2528 
 L 1818 2528 
@@ -827,12 +819,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m95fe790f94" x="738" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="682.789844" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- Vietnam -->
-      <g transform="translate(709.67844 726.07893) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(654.468284 646.87893) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-56" d="M 1933 691 
 L 1946 691 
@@ -859,12 +851,12 @@ z
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m95fe790f94" x="831.939394" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="776.729238" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
       <!-- Indonesia -->
-      <g transform="translate(797.885021 737.544556) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(742.674865 658.344556) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-49" d="M 1075 0 
 L 614 0 
@@ -889,12 +881,12 @@ z
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m95fe790f94" x="925.878788" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="870.668632" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- Thailand -->
-      <g transform="translate(896.294932 728.603523) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(841.084775 649.403523) rotate(-45) scale(0.25 -0.25)">
        <use xlink:href="#Avenir-Book-54"/>
        <use xlink:href="#Avenir-Book-68" transform="translate(57.399994 0)"/>
        <use xlink:href="#Avenir-Book-61" transform="translate(112.999985 0)"/>
@@ -909,12 +901,12 @@ z
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m95fe790f94" x="1019.818182" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="964.608026" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- Malaysia -->
-      <g transform="translate(990.056168 728.959838) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(934.846012 649.759838) rotate(-45) scale(0.25 -0.25)">
        <use xlink:href="#Avenir-Book-4d"/>
        <use xlink:href="#Avenir-Book-61" transform="translate(88.999985 0)"/>
        <use xlink:href="#Avenir-Book-6c" transform="translate(140.899979 0)"/>
@@ -929,12 +921,12 @@ z
     <g id="xtick_10">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m95fe790f94" x="1113.757576" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="1058.54742" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
       <!-- Brunei -->
-      <g transform="translate(1092.5278 711.895363) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(1037.317643 632.695363) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-42" d="M 1075 422 
 L 1958 422 
@@ -1021,12 +1013,12 @@ z
     <g id="xtick_11">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m95fe790f94" x="1207.69697" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m9d2c6c1d30" x="1152.486813" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
       <!-- Singapore -->
-      <g transform="translate(1171.561327 741.707095) rotate(-45) scale(0.25 -0.25)">
+      <g transform="translate(1116.351171 662.507095) rotate(-45) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-53" d="M 2758 3782 
 Q 2458 4224 1882 4224 
@@ -1142,17 +1134,17 @@ z
     <g id="ytick_1">
      <g id="line2d_12">
       <defs>
-       <path id="m64d0ead67e" d="M 0 0 
+       <path id="m60856255f8" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="640.8" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="561.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- 0 -->
-      <g transform="translate(159.101562 650.249219) scale(0.25 -0.25)">
+      <g transform="translate(103.891406 571.049219) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-30" d="M 1779 4186 
 Q 1408 4186 1193 3987 
@@ -1199,12 +1191,12 @@ z
     <g id="ytick_2">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="578.487601" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="499.287601" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
       <!-- 10000 -->
-      <g transform="translate(103.507812 587.93682) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 508.73682) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-31" d="M 2227 0 
 L 1766 0 
@@ -1228,12 +1220,12 @@ z
     <g id="ytick_3">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="516.175203" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="436.975203" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
       <!-- 20000 -->
-      <g transform="translate(103.507812 525.624421) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 446.424421) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-32" d="M 3187 0 
 L 307 0 
@@ -1277,12 +1269,12 @@ z
     <g id="ytick_4">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="453.862804" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="374.662804" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
       <!-- 30000 -->
-      <g transform="translate(103.507812 463.312023) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 384.112023) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-33" d="M 1306 2586 
 L 1542 2586 
@@ -1343,12 +1335,12 @@ z
     <g id="ytick_5">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="391.550405" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="312.350405" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
       <!-- 40000 -->
-      <g transform="translate(103.507812 400.999624) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 321.799624) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-34" d="M 2202 4070 
 L 2189 4070 
@@ -1382,12 +1374,12 @@ z
     <g id="ytick_6">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="329.238007" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="250.038007" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_17">
       <!-- 50000 -->
-      <g transform="translate(103.507812 338.687225) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 259.487225) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-35" d="M 2976 4109 
 L 1120 4109 
@@ -1434,12 +1426,12 @@ z
     <g id="ytick_7">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="266.925608" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="187.725608" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
       <!-- 60000 -->
-      <g transform="translate(103.507812 276.374827) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 197.174827) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-36" d="M 768 1325 
 Q 768 1107 841 928 
@@ -1494,12 +1486,12 @@ z
     <g id="ytick_8">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="204.613209" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="125.413209" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_19">
       <!-- 70000 -->
-      <g transform="translate(103.507812 214.062428) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 134.862428) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-37" d="M 3034 4109 
 L 1210 0 
@@ -1523,12 +1515,12 @@ z
     <g id="ytick_9">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m64d0ead67e" x="180" y="142.300811" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m60856255f8" x="124.789844" y="63.100811" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_20">
       <!-- 80000 -->
-      <g transform="translate(103.507812 151.750029) scale(0.25 -0.25)">
+      <g transform="translate(48.297656 72.550029) scale(0.25 -0.25)">
        <defs>
         <path id="Avenir-Book-38" d="M 2752 1274 
 Q 2752 1472 2681 1641 
@@ -1610,7 +1602,7 @@ z
     </g>
     <g id="text_21">
      <!-- GDP per capita (current USD) -->
-     <g transform="translate(81.308594 526.576562) rotate(-90) scale(0.25 -0.25)">
+     <g transform="translate(26.098438 447.376562) rotate(-90) scale(0.25 -0.25)">
       <defs>
        <path id="Avenir-Book-47" d="M 3962 3699 
 Q 3731 3942 3411 4083 
@@ -1797,31 +1789,31 @@ z
      </g>
     </g>
    </g>
+   <g id="patch_14">
+    <path d="M 124.789844 561.6 
+L 124.789844 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
    <g id="patch_15">
-    <path d="M 180 640.8 
-L 180 86.4 
+    <path d="M 1240.789844 561.6 
+L 1240.789844 7.2 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_16">
-    <path d="M 1296 640.8 
-L 1296 86.4 
+    <path d="M 124.789844 561.6 
+L 1240.789844 561.6 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_17">
-    <path d="M 180 640.8 
-L 1296 640.8 
-" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
-   </g>
-   <g id="patch_18">
-    <path d="M 180 86.4 
-L 1296 86.4 
+    <path d="M 124.789844 7.2 
+L 1240.789844 7.2 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p5ed10608e3">
-   <rect x="180" y="86.4" width="1116" height="554.4"/>
+  <clipPath id="p82988812ed">
+   <rect x="124.789844" y="7.2" width="1116" height="554.4"/>
   </clipPath>
  </defs>
 </svg>
