@@ -35,7 +35,6 @@
 (() => {
   const ZOOM_INTENSITY = 0.012;
   const MIN_W = 80;
-
   const app = document.getElementById('app');
   const svg = app.querySelector('svg');
   if (!svg) { console.warn('No <svg> found inside #app.'); return; }
@@ -46,14 +45,13 @@
 
   const getVB = () => svg.getAttribute('viewBox').trim().split(/\s+/).map(Number);
   const setVB = (x,y,w,h) => svg.setAttribute('viewBox', `${x} ${y} ${w} ${h}`);
-  const [X0,Y0,W0,H0] = getVB();
-
   let dragging=false, lastX=0, lastY=0, pid=null;
+
   svg.addEventListener('pointerdown', e => {
     dragging=true; lastX=e.clientX; lastY=e.clientY; pid=e.pointerId;
     svg.setPointerCapture(pid); app.focus();
   });
-  svg.addEventListener('pointerup',     e => { if (e.pointerId===pid) dragging=false; });
+  svg.addEventListener('pointerup', e => { if (e.pointerId===pid) dragging=false; });
   svg.addEventListener('pointercancel', e => { if (e.pointerId===pid) dragging=false; });
   svg.addEventListener('pointermove', e => {
     if (!dragging) return;
