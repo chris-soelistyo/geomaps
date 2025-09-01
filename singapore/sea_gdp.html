@@ -69,14 +69,23 @@
 
   // === Desktop zoom under cursor ===
   function zoomAt(clientX, clientY, factor) {
-    let [vx,vy,vw,vh] = getVB();
+    let [vx, vy, vw, vh] = getVB();
     const r = svg.getBoundingClientRect();
-    const px = (clientX - r.left) / r.width;
-    const py = (clientY - r.top)  / r.height;
+
+    // Cursor position in SVG coordinates
+    const sx = (clientX - r.left) / r.width;
+    const sy = (clientY - r.top) / r.height;
+    const cx = vx + sx * vw;
+    const cy = vy + sy * vh;
+
+    // New zoomed dimensions
     let nw = Math.max(vw / factor, MIN_W);
     let nh = nw * ASPECT;
-    let nx = vx + px * (vw - nw);
-    let ny = vy + py * (vh - nh);
+
+    // Recenter so that cursor stays fixed in place
+    let nx = cx - sx * nw;
+    let ny = cy - sy * nh;
+
     setVB(nx, ny, nw, nh);
   }
 
