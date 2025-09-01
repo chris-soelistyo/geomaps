@@ -72,7 +72,7 @@
     let [vx, vy, vw, vh] = getVB();
     const r = svg.getBoundingClientRect();
 
-    // Cursor position in SVG coordinates
+    // Cursor position in SVG coordinates BEFORE zoom
     const sx = (clientX - r.left) / r.width;
     const sy = (clientY - r.top) / r.height;
     const cx = vx + sx * vw;
@@ -82,12 +82,13 @@
     let nw = Math.max(vw / factor, MIN_W);
     let nh = nw * ASPECT;
 
-    // Recenter so that cursor stays fixed in place
+    // Recalculate so cx,cy remains at the SAME screen position
     let nx = cx - sx * nw;
     let ny = cy - sy * nh;
 
     setVB(nx, ny, nw, nh);
   }
+
 
   function onWheel(e) {
     e.preventDefault();
